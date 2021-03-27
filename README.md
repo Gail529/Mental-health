@@ -15,7 +15,7 @@ From the NRC emotion lexicon, emotions which are common in a depressed individua
 while emotions like Joy and Trust were penalised and assigned smaller weights.
 
 ### Training the Neural Network 
-[model.ipynb](model.ipynb)
+[model.ipynb](model1.ipynb)
 Used Word2Vec to prepare a word embedding which was then fed to a simple LSTM network.
 
 ### References:
